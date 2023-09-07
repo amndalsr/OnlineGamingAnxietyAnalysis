@@ -4,11 +4,11 @@ Essa análise de dados foi feita utilizando o conjunto de dados Online Gaming An
 
 ## Pré-processamento de Dados
 
-### Categorização da Pontuação de Ansiedade:
+### Categorização da Pontuação de Ansiedade
 
 - Foi usado o algoritmo KMeans para segmentar a pontuação de ansiedade em três categorias: baixa, média e alta.
 
-### Tratamento dos Dados:
+### Tratamento dos Dados
 
 - Para características numéricas: Preenchemos valores faltantes com a média e, em seguida, padronizamos os dados.
 - Para características categóricas: Preenchemos valores faltantes com o valor "missing" e aplicamos a codificação OneHot.
