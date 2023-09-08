@@ -22,8 +22,6 @@ Essa análise de dados foi feita utilizando o conjunto de dados Online Gaming An
 - O modelo teve um ótimo desempenho, alcançando uma acurácia de 99.78%.
 - Sua visualização foi através da Matriz de Confusão usando seaborn, mostrando uma clara distinção entre as previsões e os valores reais.
 
-![image](https://github.com/amndalsr/OnlineGamingAnxietyAnalysis/assets/72527935/0ad25d68-3948-44ae-a93f-e0c8325e3fc6)
-
 ### Conclusão
 
 - O modelo MLP mostrou-se eficiente na tarefa de prever a pontuação de ansiedade dos jogadores com base em suas respostas e características. O alto nível de acurácia e as métricas de avaliação indicam um bom desempenho do modelo nos dados de teste.
