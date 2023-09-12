@@ -2,6 +2,8 @@
 
 Essa análise de dados foi feita utilizando o conjunto de dados Online Gaming Anxiety Analysis, disponível no Kaggle. Meu objetivo foi treinar um modelo de machine learning usando uma Rede Neural MLP para prever a pontuação total de ansiedade com base em dados coletados de uma pesquisa relacionada a saúde dos jogadores.
 
+🚀 Base de Dados: <a href="https://www.kaggle.com/code/criptonkaegrey/online-gaming-anxiety-analysis">Online Gaming Anxiety Analysis</a>
+
 ## Pré-processamento de Dados
 
 ### Categorização da Pontuação de Ansiedade
